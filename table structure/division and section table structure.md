@@ -17,3 +17,6 @@ rows: sectionID | stock_code| sectionQty
 
 
 chatgpt-easycode
+
+jy
+Starrelic11
