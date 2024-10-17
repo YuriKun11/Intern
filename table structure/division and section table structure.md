@@ -16,10 +16,3 @@ rows: sectionID | stock_code| sectionQty
 ## SQL TABLE NAME : tbl_depletion_thresholds
 rows: id | stock_code | divisionID | depletion_threshold
 
-
-
-
-chatgpt-easycode
-
-jy
-Starrelic11
