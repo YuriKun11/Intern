@@ -1,4 +1,7 @@
-# DIVISION AND SECTION TABLE STRUCTURE
+# SYSTEM TABLE STRUCTURE
+
+## SQL TABLE NAME: tbl_lib
+rows: ID | Qty | Stock_Code | Article | Description | Unit | ris_no | Category 
 
 ## SQL TABLE NAME : tbl_division
 
