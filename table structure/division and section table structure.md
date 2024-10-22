@@ -22,3 +22,9 @@ rows: sectionID | divisionID
 ## SQL TABLE NAME : tbl_depletion_thresholds
 rows: id | stock_code | divisionID | depletion_threshold
 
+## SQL TABLE NAME : issuance_records
+rows: id | date | stock_code | qty | division | section
+
+## SQL TABLE NAME : delivery_records
+rows: id | date | stock_code | qty | divisionID | sectionID
+
